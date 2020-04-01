@@ -2,7 +2,7 @@
 layout:     post
 title:      CocoaPods公有仓库的创建
 subtitle:   手把手教你创建 CocoaPods 公有仓库
-date:       2017-03-08
+date:       201703-08
 author:     BY
 header-img: img/post-bg-ios10.jpg
 catalog: true
