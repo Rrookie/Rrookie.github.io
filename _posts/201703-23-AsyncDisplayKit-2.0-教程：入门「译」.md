@@ -2,7 +2,7 @@
 layout:     post
 title:      AsyncDisplayKit 2.0 教程:入门「译」
 subtitle:   AsyncDisplayKit Tutorial:Getting Started
-date:       2017-03-23
+date:       201703-23
 author:     BY
 header-img: img/post-bg-iWatch.jpg
 catalog: true
