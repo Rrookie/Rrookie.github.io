@@ -2,7 +2,7 @@
 layout:     post
 title:      强化 swift 中的 print
 subtitle:   强化 swift 中的 print 输出函数
-date:       2017-04-07
+date:       2017
 author:     BY
 header-img: img/post-bg-universe.jpg
 catalog: true
