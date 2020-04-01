@@ -2,7 +2,7 @@
 layout:     post
 title:      iTunes Connect 构建版本不显示
 subtitle:   App打包上传到 App Store, iTunes Connect 构建版本不显示
-date:       2017-07-24
+date:       20107-24
 author:     BY
 header-img: img/post-bg-ios10.jpg
 catalog: true
